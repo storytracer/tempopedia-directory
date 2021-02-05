@@ -7,6 +7,7 @@ taxonomy:
         - collection
     tag:
         - aggregator
+        - archive
 media_order: europeana.jpg
 aura:
     pagetype: website
@@ -24,8 +25,8 @@ metadata:
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
     'twitter:image': 'https://tempopedia.org/directory/europeana/europeana.jpg'
-    'article:published_time': '2021-02-04T22:11:48+00:00'
-    'article:modified_time': '2021-02-04T22:11:48+00:00'
+    'article:published_time': '2021-02-05T02:43:15+00:00'
+    'article:modified_time': '2021-02-05T02:43:15+00:00'
     'article:author': Tempopedia
 ---
 
