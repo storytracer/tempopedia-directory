@@ -10,11 +10,11 @@ show_pagination: true
 content:
     items:
         - '@self.children'
-    limit: 100
+    limit: 9
     order:
         by: date
         dir: desc
-    pagination: false
+    pagination: true
     url_taxonomy_filters: true
 feed:
     description: 'Sample Blog Description'
@@ -31,8 +31,8 @@ metadata:
     'twitter:title': 'Directory | Tempopedia'
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
-    'article:published_time': '2021-02-05T01:29:56+00:00'
-    'article:modified_time': '2021-02-05T01:29:56+00:00'
+    'article:published_time': '2021-02-05T02:22:12+00:00'
+    'article:modified_time': '2021-02-05T02:22:12+00:00'
     'article:author': Tempopedia
 ---
 
