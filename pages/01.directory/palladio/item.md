@@ -18,8 +18,8 @@ metadata:
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
     'twitter:image': 'https://tempopedia.org/directory/palladio/map-view.jpg'
-    'article:published_time': '2021-02-05T12:42:18+00:00'
-    'article:modified_time': '2021-02-05T12:42:18+00:00'
+    'article:published_time': '2021-02-05T12:42:58+00:00'
+    'article:modified_time': '2021-02-05T12:42:58+00:00'
     'article:author': Tempopedia
 media_order: map-view.jpg
 taxonomy:
@@ -45,7 +45,7 @@ Visualize complex historical data as maps, graphs or galleries
 
 ### Visualize your data
 
-![](map-view.jpg)
+![](http://hdlab.stanford.edu/palladio/assets/map-view.jpg)
 
 In the Map view, you can see any coordinates data as points on a map. Relationships between distinct points can be connected by lines, with the arc of the line representing the flow of the relationship.
 
