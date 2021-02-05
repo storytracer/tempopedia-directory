@@ -18,10 +18,20 @@ metadata:
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
     'twitter:image': 'https://tempopedia.org/directory/tropy/tropy.jpg'
-    'article:published_time': '2021-02-05T12:09:24+00:00'
-    'article:modified_time': '2021-02-05T12:09:42+00:00'
+    'article:published_time': '2021-02-05T12:09:44+00:00'
+    'article:modified_time': '2021-02-05T12:09:44+00:00'
     'article:author': Tempopedia
 media_order: tropy.jpg
+taxonomy:
+    category:
+        - tool
+    tag:
+        - app
+        - windows
+        - linux
+        - mac
+        - photos
+        - scan
 ---
 
 Personal research photo manager
