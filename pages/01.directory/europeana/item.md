@@ -24,12 +24,12 @@ metadata:
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
     'twitter:image': 'https://tempopedia.org/directory/europeana/europeana.jpg'
-    'article:published_time': '2021-02-04T22:03:21+00:00'
-    'article:modified_time': '2021-02-04T22:03:21+00:00'
+    'article:published_time': '2021-02-04T22:11:48+00:00'
+    'article:modified_time': '2021-02-04T22:11:48+00:00'
     'article:author': Tempopedia
 ---
 
-European archive aggregator. Provides search across digital collections from all over Europe.
+Meta-search across European digital collections
 
 ===
 

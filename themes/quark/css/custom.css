@@ -1,8 +1,27 @@
-@media screen and (min-width: 640px) {
+@media screen and (max-width: 640px) {
     .bricklayer-column-sizer {
         width: 100%;
     }
+    
+    .blog-listing .bricklayer-column {
+      padding-right: 0;
+    }
+    
+    #blog-hero h2 {
+      font-size: 1.8rem;
+    }
+    
+    #listing-footer {
+      margin-bottom: 2rem;
+    }
 }
+
+@media screen and (min-width: 640px) {
+    .bricklayer-column-sizer {
+        width: 50%;
+    }
+}
+
 @media screen and (min-width: 980px) {
     .bricklayer-column-sizer {
         width: 33.3%;
@@ -32,7 +51,7 @@
 }
 
 .e-content {
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 
 .content-title h2 {
