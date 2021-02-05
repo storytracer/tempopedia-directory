@@ -8,6 +8,7 @@ taxonomy:
         - knowledge-management
         - wiki
         - collaboration
+        - database
 aura:
     pagetype: website
 feed:
@@ -16,14 +17,20 @@ metadata:
     'og:url': 'https://tempopedia.org/directory/notion'
     'og:type': website
     'og:title': 'Notion | Tempopedia'
+    'og:image': 'https://tempopedia.org/directory/notion/notion.jpg'
+    'og:image:type': image/jpeg
+    'og:image:width': '1280'
+    'og:image:height': '720'
     'og:author': Tempopedia
     'twitter:card': summary_large_image
     'twitter:title': 'Notion | Tempopedia'
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
+    'twitter:image': 'https://tempopedia.org/directory/notion/notion.jpg'
     'article:published_time': '2021-02-05T12:24:47+00:00'
-    'article:modified_time': '2021-02-05T12:24:47+00:00'
+    'article:modified_time': '2021-02-05T12:24:58+00:00'
     'article:author': Tempopedia
+media_order: notion.jpg
 ---
 
 Collaborative workspace with personal wiki, linked databases and global search
