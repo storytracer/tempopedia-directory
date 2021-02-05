@@ -18,17 +18,19 @@ metadata:
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
     'twitter:image': 'https://tempopedia.org/directory/anchor-fm/features.jpg'
-    'article:published_time': '2021-02-05T13:14:44+00:00'
-    'article:modified_time': '2021-02-05T13:14:44+00:00'
+    'article:published_time': '2021-02-05T13:15:12+00:00'
+    'article:modified_time': '2021-02-05T13:15:12+00:00'
     'article:author': Tempopedia
 media_order: features.jpg
 taxonomy:
     category:
         - tool
     tag:
+        - app
         - podcast
         - public-history
-        - app
+        - android
+        - iphone
 ---
 
 App for recording, editing and distributing podcasts
