@@ -18,8 +18,8 @@ metadata:
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
     'twitter:image': 'https://tempopedia.org/directory/scanner-pro/readdle.com_scannerpro(720p).png'
-    'article:published_time': '2021-02-04T22:08:49+00:00'
-    'article:modified_time': '2021-02-04T22:08:49+00:00'
+    'article:published_time': '2021-02-04T22:11:11+00:00'
+    'article:modified_time': '2021-02-04T22:11:11+00:00'
     'article:author': Tempopedia
 taxonomy:
     category:
@@ -28,9 +28,10 @@ taxonomy:
         - app
         - iphone
         - ipad
-        - scan
-        - ocr
         - pdf
+        - ocr
+        - scan
+        - photos
 media_order: readdle.com_scannerpro(720p).png
 ---
 
