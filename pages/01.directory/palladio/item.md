@@ -18,10 +18,19 @@ metadata:
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
     'twitter:image': 'https://tempopedia.org/directory/palladio/map-view.jpg'
-    'article:published_time': '2021-02-05T12:38:09+00:00'
-    'article:modified_time': '2021-02-05T12:40:17+00:00'
+    'article:published_time': '2021-02-05T12:41:35+00:00'
+    'article:modified_time': '2021-02-05T12:41:35+00:00'
     'article:author': Tempopedia
 media_order: map-view.jpg
+taxonomy:
+    category:
+        - tool
+    tag:
+        - maps
+        - graphs
+        - networks
+        - visualization
+        - gis
 ---
 
 Visualize complex historical data as maps, graphs or galleries
