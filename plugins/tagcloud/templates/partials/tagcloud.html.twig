@@ -1,0 +1,27 @@
+{% set taxlist = taxonomylist.get() %}
+
+{% if taxlist %}
+  {% set max = max(taxlist['tag']) %}
+  {% set threshold = 0 %}
+  {% if config.plugins.tagcloud.threshold is defined %}
+    {% set threshold = config.plugins.tagcloud.threshold %}
+  {% endif %}
+<div id="tagcloud">
+  {% for tax,value in taxlist['tag']|ksort %}
+    {% set percent = (value / max) * 100 %}
+    {% if percent > threshold %}
+      {% set class = 'largest' %}
+      {% if percent < 20 %}
+        {% set class = 'smallest' %}
+      {% elseif percent >= 20 and percent < 40 %}
+        {% set class = 'small' %}
+      {% elseif percent >= 40 and percent < 60 %}
+        {% set class = 'medium' %}
+      {% elseif percent >= 50 and percent < 80 %}
+        {% set class = 'large' %}
+      {% endif %}
+      <span class="{{ class }}" title="{{ value }} posts"><a href="{{ base_url }}/tag{{ config.system.param_sep }}{{ tax|e('url') }}">{{ tax }}</a></span>
+    {% endif %}
+  {% endfor %}
+</div>
+{% endif %}

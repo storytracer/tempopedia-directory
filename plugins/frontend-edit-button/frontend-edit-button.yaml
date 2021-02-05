@@ -1,0 +1,5 @@
+enabled: true
+position: tr
+showLabel: true
+showIcon: true
+iconSrc: user/plugins/frontend-edit-button/images/icons/edit.png

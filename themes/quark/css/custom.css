@@ -1,0 +1,98 @@
+@media screen and (min-width: 640px) {
+    .bricklayer-column-sizer {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 980px) {
+    .bricklayer-column-sizer {
+        width: 33.3%;
+    }
+}
+
+.hero {
+  padding-top: 6rem;
+  padding-bottom: 2rem;
+}
+
+.hero h1, h2 {
+  margin-top: 0rem;
+  margin-bottom: 0;
+}
+
+#body-wrapper .container {
+  padding-top: 2rem;
+}
+
+.sidebar-content:first-child h4:first-child {
+  margin-top: 0;
+}
+
+.e-content {
+  font-size: 1.2rem;
+}
+
+.content-title h2 {
+  font-size: 3rem;
+}
+
+.content-title .tags a.label.label-rounded.label-secondary.p-category {
+  font-size: 1rem;
+}
+
+/*a.label.label-rounded.label-secondary {
+  font-size: 0.7rem;
+}*/
+
+.card .card-body {
+  padding-top: 0;
+}
+
+.blog-listing .card-footer {
+  text-align: left;
+  padding-top: 0;
+}
+
+.mobile-menu .button_container span {
+  background: #000;
+}
+
+#header {
+  font-size: 1.2rem;
+}
+
+.card-header .card-title h5 {
+  font-size: 1.2rem;
+}
+
+.search-wrapper .search-input {
+  width: 100%;
+}
+
+#tagcloud {
+  padding: 10px;
+}
+
+#tagcloud .smallest {
+	font-size: small;
+}
+
+#tagcloud .small {
+	font-size: medium;
+}
+
+#tagcloud .medium {
+	font-size: large;
+}
+
+#tagcloud .large {
+	font-size: x-large;
+}
+
+#tagcloud .largest {
+	font-size: xx-large;
+}
+
+#tagcloud a:link, #tagcloud a:visited {
+  color: #3085ee;
+}
