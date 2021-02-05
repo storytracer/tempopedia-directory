@@ -3,10 +3,13 @@
         width: 100%;
     }
 }
-
 @media screen and (min-width: 980px) {
     .bricklayer-column-sizer {
         width: 33.3%;
+    }
+    
+    .bricklayer-column .card {
+      height: 400px;
     }
 }
 
@@ -71,6 +74,7 @@
 
 #tagcloud {
   padding: 10px;
+  margin-top: 20px;
 }
 
 #tagcloud .smallest {
