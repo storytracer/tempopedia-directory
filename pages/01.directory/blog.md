@@ -4,7 +4,7 @@ sitemap:
     changefreq: monthly
 custom: 'new thing'
 blog_url: /directory
-show_sidebar: true
+show_sidebar: false
 show_breadcrumbs: false
 show_pagination: true
 content:
@@ -31,8 +31,8 @@ metadata:
     'twitter:title': 'Directory | Tempopedia'
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
-    'article:published_time': '2021-02-05T00:39:05+00:00'
-    'article:modified_time': '2021-02-05T00:39:05+00:00'
+    'article:published_time': '2021-02-05T00:41:40+00:00'
+    'article:modified_time': '2021-02-05T00:41:40+00:00'
     'article:author': Tempopedia
 ---
 
