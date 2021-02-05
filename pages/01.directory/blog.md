@@ -31,10 +31,10 @@ metadata:
     'twitter:title': 'Directory | Tempopedia'
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
-    'article:published_time': '2021-02-05T01:27:09+00:00'
-    'article:modified_time': '2021-02-05T01:27:09+00:00'
+    'article:published_time': '2021-02-05T01:29:56+00:00'
+    'article:modified_time': '2021-02-05T01:29:56+00:00'
     'article:author': Tempopedia
 ---
 
-# The Digital History Directory
+# Digital History Resources
 ## [Tools](/category:tool) | [Collections](/category:collection)
