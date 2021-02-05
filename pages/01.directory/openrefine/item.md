@@ -18,15 +18,15 @@ metadata:
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
     'twitter:image': 'https://tempopedia.org/directory/openrefine/openrefine0.jpg'
-    'article:published_time': '2021-02-04T22:47:11+00:00'
-    'article:modified_time': '2021-02-04T22:47:11+00:00'
+    'article:published_time': '2021-02-04T22:47:43+00:00'
+    'article:modified_time': '2021-02-04T22:47:43+00:00'
     'article:author': Tempopedia
 media_order: openrefine0.jpg
 taxonomy:
     category:
         - tool
     tag:
-        - opensource
+        - database
 ---
 
 Helps to clean up messy, incoherent datasets
