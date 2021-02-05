@@ -18,8 +18,8 @@ metadata:
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
     'twitter:image': 'https://tempopedia.org/directory/scantailor/scantailor.jpg'
-    'article:published_time': '2021-02-04T23:38:46+00:00'
-    'article:modified_time': '2021-02-04T23:38:46+00:00'
+    'article:published_time': '2021-02-04T23:38:55+00:00'
+    'article:modified_time': '2021-02-04T23:38:55+00:00'
     'article:author': Tempopedia
 taxonomy:
     category:
@@ -50,10 +50,10 @@ Post-processing and optimisation of scans
 
 ScanTailor is an interactive post-processing tool for scanned pages. It performs operations such as:
 
--   page splitting,
--   deskewing,
--   adding/removing borders,
--   selecting content
--   ... and others.
+- page splitting,
+- deskewing,
+- adding/removing borders,
+- selecting content
+- ... and others.
 
 "ScanTailor Advanced" merges the features of the "ScanTailor Featured" and "ScanTailor Enhanced" versions and adds improvements and fixes.
