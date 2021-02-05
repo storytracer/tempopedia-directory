@@ -8,14 +8,20 @@ metadata:
     'og:url': 'https://tempopedia.org/directory/tropy'
     'og:type': website
     'og:title': 'Tropy | Tempopedia'
+    'og:image': 'https://tempopedia.org/directory/tropy/tropy.jpg'
+    'og:image:type': image/jpeg
+    'og:image:width': '1280'
+    'og:image:height': '720'
     'og:author': Tempopedia
     'twitter:card': summary_large_image
     'twitter:title': 'Tropy | Tempopedia'
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
+    'twitter:image': 'https://tempopedia.org/directory/tropy/tropy.jpg'
     'article:published_time': '2021-02-05T12:09:24+00:00'
-    'article:modified_time': '2021-02-05T12:09:24+00:00'
+    'article:modified_time': '2021-02-05T12:09:42+00:00'
     'article:author': Tempopedia
+media_order: tropy.jpg
 ---
 
 Personal research photo manager
