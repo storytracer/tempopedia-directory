@@ -25,8 +25,8 @@ metadata:
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
     'twitter:image': 'https://tempopedia.org/directory/openatlas/openatlas.jpg'
-    'article:published_time': '2021-02-05T00:35:21+00:00'
-    'article:modified_time': '2021-02-05T00:35:21+00:00'
+    'article:published_time': '2021-02-05T01:11:19+00:00'
+    'article:modified_time': '2021-02-05T01:11:19+00:00'
     'article:author': Tempopedia
 media_order: openatlas.jpg
 ---
@@ -46,17 +46,17 @@ The software automatically maps the information to the international standard of
 [Manual](https://demo.openatlas.eu/static/manual)\
 [Documentation](https://redmine.openatlas.eu/projects/uni/wiki)
 
-Screenshots
+### Screenshots
 
 [![About](https://openatlas.eu/static/images/screenshot/1_small.png) ](https://openatlas.eu/static/images/screenshot/1_big.png "About")[![Place overview](https://openatlas.eu/static/images/screenshot/2_small.png) ](https://openatlas.eu/static/images/screenshot/2_big.png "Place overview")[![Place insert](https://openatlas.eu/static/images/screenshot/3_small.png) ](https://openatlas.eu/static/images/screenshot/3_big.png "Place insert")[![Network](https://openatlas.eu/static/images/screenshot/4_small.png) ](https://openatlas.eu/static/images/screenshot/4_big.png "Network")[![Types](https://openatlas.eu/static/images/screenshot/5_small.png) ](https://openatlas.eu/static/images/screenshot/5_big.png "Types")[![Manual](https://openatlas.eu/static/images/screenshot/7_small.png) ](https://openatlas.eu/static/images/screenshot/7_big.png "Model")[![Model](https://openatlas.eu/static/images/screenshot/6_small.png)](https://openatlas.eu/static/images/screenshot/6_big.png "Model")
 
-How to use OpenAtlas
+### How to use OpenAtlas
 
 OpenAtlas is not a stand alone application but meant to be installed on a Linux web server. The code is open source (GPL 2) and freely available on [GitHub](https://github.com/craws/OpenAtlas). Some experience about server administration is required, for more information please take a look at the [install notes](https://github.com/craws/OpenAtlas/blob/master/install.md).
 
 In case you are interested in a cooperation you can find more information [here](https://openatlas.eu/cooperation).
 
-Development
+### Development
 
 OpenAtlas was and is funded by several [projects](https://openatlas.eu/projects), grants, institutes and departments:
 
