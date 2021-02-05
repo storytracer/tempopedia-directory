@@ -18,8 +18,8 @@ metadata:
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
     'twitter:image': 'https://tempopedia.org/directory/datawrapper/app.datawrapper.de_edit_fNXIw_design(720p).png'
-    'article:published_time': '2021-02-04T22:04:03+00:00'
-    'article:modified_time': '2021-02-04T22:04:03+00:00'
+    'article:published_time': '2021-02-04T22:35:27+00:00'
+    'article:modified_time': '2021-02-04T22:35:27+00:00'
     'article:author': Tempopedia
 media_order: app.datawrapper.de_edit_fNXIw_design(720p).png
 taxonomy:
@@ -32,7 +32,7 @@ taxonomy:
         - visualization
 ---
 
-Create static charts, maps and tables for printing.
+Create static charts, maps and tables for print mediums
 
 ===
 
