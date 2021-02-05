@@ -25,8 +25,8 @@ metadata:
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
     'twitter:image': 'https://tempopedia.org/directory/openatlas/openatlas.jpg'
-    'article:published_time': '2021-02-05T00:34:00+00:00'
-    'article:modified_time': '2021-02-05T00:34:00+00:00'
+    'article:published_time': '2021-02-05T00:35:21+00:00'
+    'article:modified_time': '2021-02-05T00:35:21+00:00'
     'article:author': Tempopedia
 media_order: openatlas.jpg
 ---
@@ -36,8 +36,6 @@ Web database integrating spatial, historical and prosopographic data
 ===
 
 ! Website: https://openatlas.eu/
-
-Welcome to OpenAtlas
 
 OpenAtlas is an open source database software developed especially to acquire, edit and manage research data from various fields of humanities like history, archaeology and prosopography as well as related scientific data (e.g. radiocarbon dating, stable isotopes and anthropological information). It provides a user interface that can be accessed via any common web-browser and allows the respective researchers to work with their data via customized forms and categories to record complex relations as simple as possible.
 
