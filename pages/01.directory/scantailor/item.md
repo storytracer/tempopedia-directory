@@ -18,19 +18,18 @@ metadata:
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
     'twitter:image': 'https://tempopedia.org/directory/scantailor/scantailor.jpg'
-    'article:published_time': '2021-02-05T03:11:19+00:00'
-    'article:modified_time': '2021-02-05T03:11:19+00:00'
+    'article:published_time': '2021-02-05T12:10:37+00:00'
+    'article:modified_time': '2021-02-05T12:10:37+00:00'
     'article:author': Tempopedia
 taxonomy:
     category:
         - tool
     tag:
         - app
-        - image-processing
+        - photos
         - mac
         - windows
         - linux
-        - photos
 media_order: scantailor.jpg
 ---
 
