@@ -18,15 +18,14 @@ metadata:
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
     'twitter:image': 'https://tempopedia.org/directory/scantailor/scantailor.jpg'
-    'article:published_time': '2021-02-04T23:38:55+00:00'
-    'article:modified_time': '2021-02-04T23:38:55+00:00'
+    'article:published_time': '2021-02-05T01:03:25+00:00'
+    'article:modified_time': '2021-02-05T01:03:25+00:00'
     'article:author': Tempopedia
 taxonomy:
     category:
         - tool
     tag:
         - app
-        - images
         - image-processing
         - mac
         - windows
