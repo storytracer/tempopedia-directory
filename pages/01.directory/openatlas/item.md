@@ -25,8 +25,8 @@ metadata:
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
     'twitter:image': 'https://tempopedia.org/directory/openatlas/openatlas.jpg'
-    'article:published_time': '2021-02-05T02:45:25+00:00'
-    'article:modified_time': '2021-02-05T02:45:25+00:00'
+    'article:published_time': '2021-02-05T02:45:47+00:00'
+    'article:modified_time': '2021-02-05T02:45:47+00:00'
     'article:author': Tempopedia
 media_order: openatlas.jpg
 ---
@@ -43,9 +43,9 @@ OpenAtlas is an open source database software developed especially to acquire, e
 
 The software automatically maps the information to the international standard of the [CIDOC CRM](http://www.cidoc-crm.org/) and takes care of today's requirements regarding data standards, data management and aims for [FAIR](https://www.force11.org/fairprinciples) principles against the background of current standards in Digital Humanities.
 
-[Demo](https://demo.openatlas.eu/)\
-[Development Demo](https://demo-dev.openatlas.eu/)\
-[Manual](https://demo.openatlas.eu/static/manual)\
+[Demo](https://demo.openatlas.eu/)
+[Development Demo](https://demo-dev.openatlas.eu/)
+[Manual](https://demo.openatlas.eu/static/manual)
 [Documentation](https://redmine.openatlas.eu/projects/uni/wiki)
 
 ### Screenshots
