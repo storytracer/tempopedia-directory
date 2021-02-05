@@ -25,8 +25,8 @@ metadata:
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
     'twitter:image': 'https://tempopedia.org/directory/openatlas/openatlas.jpg'
-    'article:published_time': '2021-02-05T01:11:19+00:00'
-    'article:modified_time': '2021-02-05T01:11:19+00:00'
+    'article:published_time': '2021-02-05T01:11:48+00:00'
+    'article:modified_time': '2021-02-05T01:11:48+00:00'
     'article:author': Tempopedia
 media_order: openatlas.jpg
 ---
@@ -55,9 +55,3 @@ The software automatically maps the information to the international standard of
 OpenAtlas is not a stand alone application but meant to be installed on a Linux web server. The code is open source (GPL 2) and freely available on [GitHub](https://github.com/craws/OpenAtlas). Some experience about server administration is required, for more information please take a look at the [install notes](https://github.com/craws/OpenAtlas/blob/master/install.md).
 
 In case you are interested in a cooperation you can find more information [here](https://openatlas.eu/cooperation).
-
-### Development
-
-OpenAtlas was and is funded by several [projects](https://openatlas.eu/projects), grants, institutes and departments:
-
-[![Austrian Academy of Sciences](https://openatlas.eu/static/images/institutes/oeaw.png "Austrian Academy of Sciences") ](https://www.oeaw.ac.at/)[![Austrian Centre for Digital Humanities and Cultural Heritage](https://openatlas.eu/static/images/institutes/acdh.png "Austrian Centre for Digital Humanities and Cultural Heritage") ](https://www.oeaw.ac.at/acdh/)[![Austrian Archaeological Institute](https://openatlas.eu/static/images/institutes/oeai.png "Austrian Archaeological Institute") ](https://www.oeaw.ac.at/oeai/)[![Institute for Medieval Research](https://openatlas.eu/static/images/institutes/imafo.png "Institute for Medieval Research") ](https://www.oeaw.ac.at/imafo/)[![Royal Holloway University of London](https://openatlas.eu/static/images/institutes/rhul.png "Royal Holloway University of London") ](https://www.royalholloway.ac.uk/)[![Johannes Gutenberg University Mainz](https://openatlas.eu/static/images/institutes/jug.png "Johannes Gutenberg University Mainz") ](https://www.uni-mainz.de/eng/index.php)[![Natural History Museum Vienna](https://openatlas.eu/static/images/institutes/nhm.jpg "Natural History Museum Vienna") ](https://www.nhm-wien.ac.at/)[![European Research Council](https://openatlas.eu/static/images/institutes/erc.png "European Research Council") ](https://erc.europa.eu/)[![Austrian Science Fund](https://openatlas.eu/static/images/institutes/fwf.png "Austrian Science Fund") ](https://www.fwf.ac.at/)[![University of Vienna](https://openatlas.eu/static/images/institutes/uni_vienna.png "University of Vienna")](https://www.univie.ac.at/)
