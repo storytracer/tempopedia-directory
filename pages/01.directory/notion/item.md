@@ -5,7 +5,6 @@ taxonomy:
         - tool
     tag:
         - app
-        - knowledge-management
         - wiki
         - collaboration
         - database
@@ -27,8 +26,8 @@ metadata:
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
     'twitter:image': 'https://tempopedia.org/directory/notion/notion.jpg'
-    'article:published_time': '2021-02-05T12:24:47+00:00'
-    'article:modified_time': '2021-02-05T12:24:58+00:00'
+    'article:published_time': '2021-02-05T12:25:12+00:00'
+    'article:modified_time': '2021-02-05T12:25:12+00:00'
     'article:author': Tempopedia
 media_order: notion.jpg
 ---
