@@ -26,8 +26,8 @@ metadata:
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
     'twitter:image': 'https://tempopedia.org/directory/notion/notion.jpg'
-    'article:published_time': '2021-02-05T12:25:12+00:00'
-    'article:modified_time': '2021-02-05T12:25:12+00:00'
+    'article:published_time': '2021-02-05T13:18:19+00:00'
+    'article:modified_time': '2021-02-05T13:18:19+00:00'
     'article:author': Tempopedia
 media_order: notion.jpg
 ---
@@ -40,7 +40,7 @@ Collaborative workspace with personal wiki, linked databases and global search
 ! Price: Freemium (Personal Pro plan free for education users)
 ! License: Commercial
 
-Notion is an application that provides components such as databases, kanban boards, wikis, calendars and reminders. Users can connect these components to create their own systems for knowledge management, note taking, data management, project management, among others. These components and systems can be used individually, or in collaboration with others.
+Notion is a knowledge-management application that provides components such as databases, kanban boards, wikis, calendars and reminders. Users can connect these components to create their own systems for knowledge management, note taking, data management, project management, among others. These components and systems can be used individually, or in collaboration with others.
 
 Research templates by PhD researchers:
 
