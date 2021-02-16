@@ -29,8 +29,8 @@ The Open Source Google Firebase alternative
 ===
 
 ! Website: https://supabase.io
-! License: Open Source
 ! Price: Free (self-hosted) or Freemium (cloud-hosted)
+! License: Open Source
 
 What it is.
 -----------------------------------------------------------------------------
