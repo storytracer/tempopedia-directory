@@ -14,14 +14,20 @@ metadata:
     'og:url': 'https://tempopedia.org/directory/supabase'
     'og:type': website
     'og:title': 'Supabase | Tempopedia'
+    'og:image': 'https://tempopedia.org/directory/supabase/og-image.jpg'
+    'og:image:type': image/jpeg
+    'og:image:width': '1200'
+    'og:image:height': '630'
     'og:author': Tempopedia
     'twitter:card': summary_large_image
     'twitter:title': 'Supabase | Tempopedia'
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
-    'article:published_time': '2021-02-16T11:58:30+00:00'
-    'article:modified_time': '2021-02-16T11:58:30+00:00'
+    'twitter:image': 'https://tempopedia.org/directory/supabase/og-image.jpg'
+    'article:published_time': '2021-02-16T11:59:10+00:00'
+    'article:modified_time': '2021-02-16T11:59:19+00:00'
     'article:author': Tempopedia
+media_order: og-image.jpg
 ---
 
 The Open Source Google Firebase alternative
