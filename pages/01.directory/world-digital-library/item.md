@@ -18,8 +18,8 @@ metadata:
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
     'twitter:image': 'https://tempopedia.org/directory/world-digital-library/www.wdl.org_en_(720p).png'
-    'article:published_time': '2021-02-22T14:40:52+00:00'
-    'article:modified_time': '2021-02-22T14:41:03+00:00'
+    'article:published_time': '2021-02-22T14:41:27+00:00'
+    'article:modified_time': '2021-02-22T14:41:27+00:00'
     'article:author': Tempopedia
 media_order: www.wdl.org_en_(720p).png
 taxonomy:
@@ -29,8 +29,10 @@ taxonomy:
         - aggregator
 ---
 
-The World Digital Library (WDL) is a project of the U.S. Library of Congress, with the support of UNESCO, and contributions from libraries, archives, museums, educational institutions, and international organizations around the world.
+World History aggregator initiated by Library of Congress
 
 ===
 
 ! Website: https://www.wdl.org
+
+The World Digital Library (WDL) is a project of the U.S. Library of Congress, with the support of UNESCO, and contributions from libraries, archives, museums, educational institutions, and international organizations around the world.
