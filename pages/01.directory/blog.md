@@ -23,7 +23,6 @@ pagination: true
 aura:
     pagetype: website
     description: 'Digital history resources. Research tools and collections for digital historians.'
-    image: tempopedia.org_(720p).png
 metadata:
     description: 'Digital history resources. Research tools and collections for digital historians.'
     'og:url': 'https://tempopedia.org/'
@@ -36,8 +35,8 @@ metadata:
     'twitter:description': 'Digital history resources. Research tools and collections for digital historians.'
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
-    'article:published_time': '2021-02-22T17:25:47+00:00'
-    'article:modified_time': '2021-02-22T17:27:27+00:00'
+    'article:published_time': '2021-02-22T17:27:32+00:00'
+    'article:modified_time': '2021-02-22T17:27:32+00:00'
     'article:author': Tempopedia
 ---
 
