@@ -22,8 +22,8 @@ metadata:
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
     'twitter:image': 'https://tempopedia.org/directory/museum-digital/en.about.museum-digital.org_dashboard(720p).png'
-    'article:published_time': '2021-02-22T17:15:57+00:00'
-    'article:modified_time': '2021-02-22T17:16:12+00:00'
+    'article:published_time': '2021-02-22T17:16:15+00:00'
+    'article:modified_time': '2021-02-22T17:16:15+00:00'
     'article:author': Tempopedia
 media_order: en.about.museum-digital.org_dashboard(720p).png
 ---
