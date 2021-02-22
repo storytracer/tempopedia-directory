@@ -22,8 +22,8 @@ metadata:
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
     'twitter:image': 'https://tempopedia.org/directory/museum-digital/en.about.museum-digital.org_dashboard(720p).png'
-    'article:published_time': '2021-02-22T17:16:15+00:00'
-    'article:modified_time': '2021-02-22T17:16:15+00:00'
+    'article:published_time': '2021-02-22T17:18:44+00:00'
+    'article:modified_time': '2021-02-22T17:18:44+00:00'
     'article:author': Tempopedia
 media_order: en.about.museum-digital.org_dashboard(720p).png
 ---
@@ -34,8 +34,7 @@ Platform and aggregator for local museums, mainly used in Central Europe so far
 
 ! Website: https://global.museum-digital.org/
 
-ABOUT MUSEUM-DIGITAL
---------------------
+## ABOUT MUSEUM-DIGITAL
 
 Museum-digital is an initiative of museums. The initiative was founded in 2009. It was created to develop a process as simple as possible for publishing information on museums and their objects online. Starting with six participating museums in Saxony-Anhalt, Germany, there are now over 600, mainly in Germany and Hungary. The simple publication has been extended with additional forms of presentation, but a strong focus on a good inventory has become a central feature of museum-digital. At museum-digital, we work together to develop software aimed at making inventorization and digital publishing easy but high quality.
 
