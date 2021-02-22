@@ -24,13 +24,13 @@ metadata:
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
     'twitter:image': 'https://tempopedia.org/directory/supabase/og-image.jpg'
-    'article:published_time': '2021-02-16T11:59:10+00:00'
-    'article:modified_time': '2021-02-16T11:59:19+00:00'
+    'article:published_time': '2021-02-16T11:59:23+00:00'
+    'article:modified_time': '2021-02-16T11:59:23+00:00'
     'article:author': Tempopedia
 media_order: og-image.jpg
 ---
 
-The Open Source Google Firebase alternative
+The open source database alternative to Google Firebase
 
 ===
 
