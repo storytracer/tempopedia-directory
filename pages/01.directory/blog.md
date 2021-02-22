@@ -22,17 +22,21 @@ feed:
 pagination: true
 aura:
     pagetype: website
+    description: 'Digital History Resources'
 metadata:
-    'og:url': 'https://tempopedia.org'
+    description: 'Digital History Resources'
+    'og:url': 'https://tempopedia.org/'
     'og:type': website
     'og:title': 'Directory | Tempopedia'
+    'og:description': 'Digital History Resources'
     'og:author': Tempopedia
     'twitter:card': summary_large_image
     'twitter:title': 'Directory | Tempopedia'
+    'twitter:description': 'Digital History Resources'
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
-    'article:published_time': '2021-02-05T02:22:12+00:00'
-    'article:modified_time': '2021-02-05T02:22:12+00:00'
+    'article:published_time': '2021-02-05T02:25:51+00:00'
+    'article:modified_time': '2021-02-22T17:15:57+00:00'
     'article:author': Tempopedia
 ---
 
