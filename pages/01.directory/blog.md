@@ -30,21 +30,15 @@ metadata:
     'og:type': website
     'og:title': 'Directory | Tempopedia'
     'og:description': 'Digital history resources. Research tools and collections for digital historians.'
-    'og:image': 'https://tempopedia.org//tempopedia.org_(720p).png'
-    'og:image:type': image/png
-    'og:image:width': '2560'
-    'og:image:height': '1440'
     'og:author': Tempopedia
     'twitter:card': summary_large_image
     'twitter:title': 'Directory | Tempopedia'
     'twitter:description': 'Digital history resources. Research tools and collections for digital historians.'
     'twitter:site': '@tempopediaorg'
     'twitter:creator': '@tempopediaorg'
-    'twitter:image': 'https://tempopedia.org//tempopedia.org_(720p).png'
-    'article:published_time': '2021-02-22T17:24:23+00:00'
-    'article:modified_time': '2021-02-22T17:24:51+00:00'
+    'article:published_time': '2021-02-22T17:25:47+00:00'
+    'article:modified_time': '2021-02-22T17:27:27+00:00'
     'article:author': Tempopedia
-media_order: tempopedia.org_(720p).png
 ---
 
 # Digital History Resources
