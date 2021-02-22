@@ -19,16 +19,18 @@ metadata:
     'og:author': Tempopedia
     'twitter:card': summary_large_image
     'twitter:title': 'Museum Digital | Tempopedia'
-    'twitter:site': '@tempopediaorg'
-    'twitter:creator': '@tempopediaorg'
+    'twitter:site': '@tempopedia_org'
+    'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/museum-digital/en.about.museum-digital.org_dashboard(720p).png'
-    'article:published_time': '2021-02-22T17:18:58+00:00'
-    'article:modified_time': '2021-02-22T17:18:58+00:00'
+    'article:published_time': '2021-02-22T17:19:37+00:00'
+    'article:modified_time': '2021-02-22T17:19:37+00:00'
     'article:author': Tempopedia
 media_order: en.about.museum-digital.org_dashboard(720p).png
+feed:
+    limit: 10
 ---
 
-Platform and aggregator for local museums, mainly used in Central Europe so far
+Aggregator of local museum collections (mainly Central Europe)
 
 ===
 
