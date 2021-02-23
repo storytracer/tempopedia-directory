@@ -15,11 +15,11 @@ metadata:
     'og:author': Tempopedia
     'twitter:card': summary_large_image
     'twitter:title': 'Scanner Pro | Tempopedia'
-    'twitter:site': '@tempopediaorg'
-    'twitter:creator': '@tempopediaorg'
+    'twitter:site': '@tempopedia_org'
+    'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/scanner-pro/readdle.com_scannerpro(720p).png'
-    'article:published_time': '2021-02-04T22:11:11+00:00'
-    'article:modified_time': '2021-02-04T22:11:11+00:00'
+    'article:published_time': '2021-02-05T12:10:52+00:00'
+    'article:modified_time': '2021-02-05T12:10:52+00:00'
     'article:author': Tempopedia
 taxonomy:
     category:
@@ -42,5 +42,6 @@ Scan documents with phone camera and perform text recognition.
 ! Website: https://readdle.com/scannerpro
 ! Price: Freemium
 ! OS: iPhone, iPad
+! Skill level: 👩‍💻 End-user
 
 Easily turn papers into PDFs with your iPhone and iPad. Scan receipts, books, IDs, invoices, and other documents – it just takes a few taps.
