@@ -20,6 +20,10 @@
     .bricklayer-column-sizer {
         width: 50%;
     }
+
+    #item .iframely-embed {
+      width: 50%;
+    }
 }
 
 @media screen and (min-width: 980px) {
@@ -29,6 +33,11 @@
     
     .bricklayer-column .card {
       height: 400px;
+    }
+
+    #item .iframely-embed {
+      width: 33.3%;
+      float: left;
     }
 }
 
