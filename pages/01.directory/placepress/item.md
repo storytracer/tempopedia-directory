@@ -22,11 +22,11 @@ metadata:
     'og:author': Tempopedia
     'twitter:card': summary_large_image
     'twitter:title': 'PlacePress | Tempopedia'
-    'twitter:site': '@tempopediaorg'
-    'twitter:creator': '@tempopediaorg'
+    'twitter:site': '@tempopedia_org'
+    'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/placepress/placepress.jpg'
-    'article:published_time': '2021-02-04T21:06:33+00:00'
-    'article:modified_time': '2021-02-04T21:06:33+00:00'
+    'article:published_time': '2021-02-04T22:01:55+00:00'
+    'article:modified_time': '2021-02-04T22:01:55+00:00'
     'article:author': Tempopedia
 ---
 
@@ -35,7 +35,10 @@ Wordpress plugin for mapping historic sites.
 ===
 
 ! Website: https://wpplacepress.org/
-! Github: https://github.com/CPHDH/placepress
+! Source code: https://github.com/CPHDH/placepress
+! Price: Free
+! License: Open Source
+! Skill level: 🏋️‍♀️ Trained end-user (for use) / 👩‍🔧 Administrator (for setup)
 
 PlacePress is a WordPress plugin developed by the Center for Public History + Digital Humanities at Cleveland State University. It is designed for public historians, urbanists, and other humanities researchers to document locations such as historic sites. For more information about the origins of PlacePress, see Introducing PlacePress.
 
