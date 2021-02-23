@@ -41,9 +41,9 @@
   <a class="button" href="{{ base_url }}/random"><i class="fa fa-retweet"></i> {{ 'THEME_QUARK.SIDEBAR.RANDOM_ARTICLE.FEELING_LUCKY'|t }}</a>
 </div>
 {% endif %}
-
+ #}
 {{ page.find('/modules/sidebar').content|raw }}
-{% if config.plugins.archives.enabled %}
+{# {% if config.plugins.archives.enabled %}
 <div class="sidebar-content">
     <h4>{{ 'THEME_QUARK.SIDEBAR.ARCHIVES.HEADLINE'|t }}</h4>
   {% include 'partials/archives.html.twig' with {'base_url':new_base_url} %}
