@@ -20,6 +20,7 @@
     {% include 'partials/tagcloud.html.twig' %}
   </div>
 {% endif %}
+{{ page.find('/modules/sidebar').content|raw }}
 
 {# {% if config.plugins.taxonomylist.enabled %}
 <div class="sidebar-content">
@@ -42,7 +43,6 @@
 </div>
 {% endif %}
  #}
-{{ page.find('/modules/sidebar').content|raw }}
 {# {% if config.plugins.archives.enabled %}
 <div class="sidebar-content">
     <h4>{{ 'THEME_QUARK.SIDEBAR.ARCHIVES.HEADLINE'|t }}</h4>
