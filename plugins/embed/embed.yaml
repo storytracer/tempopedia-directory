@@ -1,4 +1,3 @@
 enabled: true
 oembed:
   endpoint: http://open.iframe.ly/api/oembed
-truncate_length: 100
