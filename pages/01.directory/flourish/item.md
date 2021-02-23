@@ -18,8 +18,8 @@ metadata:
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/flourish/flourish.studio_(720p).png'
-    'article:published_time': '2021-02-23T23:04:54+00:00'
-    'article:modified_time': '2021-02-23T23:04:54+00:00'
+    'article:published_time': '2021-02-23T23:07:21+00:00'
+    'article:modified_time': '2021-02-23T23:07:21+00:00'
     'article:author': Tempopedia
 media_order: flourish.studio_(720p).png
 taxonomy:
@@ -40,11 +40,11 @@ Interactive data visualization and storytelling
 ! License: Commercial
 ! Skill level: 🏋️‍♀️ Trained end-user
 
-## Description
+### Description
 
-### Easily turn your data into stunning charts, maps and interactive stories.
+#### Easily turn your data into stunning charts, maps and interactive stories.
 [View examples](https://flourish.studio/examples).
 
 
-## Tutorial
+### Tutorial
 [plugin:embed](https://towardsdatascience.com/creating-awesome-map-data-visualizations-using-flourish-studio-6410a8e01c74)
