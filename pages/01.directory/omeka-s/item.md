@@ -11,17 +11,17 @@ metadata:
     'og:author': Tempopedia
     'twitter:card': summary_large_image
     'twitter:title': 'Omeka S | Tempopedia'
-    'twitter:site': '@tempopediaorg'
-    'twitter:creator': '@tempopediaorg'
-    'article:published_time': '2021-02-05T02:56:32+00:00'
-    'article:modified_time': '2021-02-05T02:56:32+00:00'
+    'twitter:site': '@tempopedia_org'
+    'twitter:creator': '@tempopedia_org'
+    'article:published_time': '2021-02-05T02:57:28+00:00'
+    'article:modified_time': '2021-02-05T02:57:28+00:00'
     'article:author': Tempopedia
 taxonomy:
     category:
         - tool
     tag:
-        - semantic
         - database
+        - semantic
         - exhibition
         - cms
         - publishing
@@ -34,6 +34,7 @@ Semantic web database, rich media publishing and exhibition platform
 ! Website https://omeka.org/s/
 ! Price: Free
 ! License: Open Source
+! Skill level: 🏋️‍♀️ Trained end-user (for use) / 👩‍🔧 Administrator (for setup)
 
 Omeka S is a web publication system for universities, galleries, libraries, archives, and museums. It creates a local network of independently curated exhibits sharing a collaboratively built pool of items and their metadata.
 
