@@ -18,10 +18,17 @@ metadata:
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/flourish/flourish.studio_(720p).png'
-    'article:published_time': '2021-02-23T20:14:10+00:00'
-    'article:modified_time': '2021-02-23T20:14:10+00:00'
+    'article:published_time': '2021-02-23T20:15:06+00:00'
+    'article:modified_time': '2021-02-23T20:15:06+00:00'
     'article:author': Tempopedia
 media_order: flourish.studio_(720p).png
+taxonomy:
+    category:
+        - tool
+    tag:
+        - visualization
+        - maps
+        - charts
 ---
 
 Interactive data visualization and storytelling
