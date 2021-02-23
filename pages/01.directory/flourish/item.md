@@ -18,8 +18,8 @@ metadata:
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/flourish/flourish.studio_(720p).png'
-    'article:published_time': '2021-02-23T20:13:42+00:00'
-    'article:modified_time': '2021-02-23T20:13:42+00:00'
+    'article:published_time': '2021-02-23T20:14:10+00:00'
+    'article:modified_time': '2021-02-23T20:14:10+00:00'
     'article:author': Tempopedia
 media_order: flourish.studio_(720p).png
 ---
@@ -36,11 +36,6 @@ Interactive data visualization and storytelling
 ### Easily turn your data into stunning charts, maps and interactive stories.
 [View examples](https://flourish.studio/examples).
 
--   **Engage your audience**Create agency-quality data graphics and animated stories that bring your data to life.
--   **Empower the whole team**Flourish is easy enough for anyone to use. Start with a template and drop in data.
--   **Embed, share, present**Create seamless embeds, magical presentations, or engaging content for social.
--   **Your brand, your style**Get custom themes so everything has your logo, fonts, colours and styles.
-
-## Tutorial
+### Tutorial
 
 [plugin:embed](https://towardsdatascience.com/creating-awesome-map-data-visualizations-using-flourish-studio-6410a8e01c74)
