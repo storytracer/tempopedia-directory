@@ -11,15 +11,14 @@ metadata:
     'og:author': Tempopedia
     'twitter:card': summary_large_image
     'twitter:title': 'Mapire | Tempopedia'
-    'twitter:site': '@tempopediaorg'
-    'twitter:creator': '@tempopediaorg'
-    'article:published_time': '2021-02-04T22:12:46+00:00'
-    'article:modified_time': '2021-02-04T22:12:46+00:00'
+    'twitter:site': '@tempopedia_org'
+    'twitter:creator': '@tempopedia_org'
+    'article:published_time': '2021-02-04T23:15:37+00:00'
+    'article:modified_time': '2021-02-04T23:15:37+00:00'
     'article:author': Tempopedia
 media_order: 'mapire.eu_en_map_europe-19century-thirdsurvey__layers=160%2C166&bbox=-55646.15659160842%2C5862262.052363885%2C2533428.865483882%2C6290309.410760871(720p).jpg'
 taxonomy:
     category:
-        - tool
         - collection
     tag:
         - maps
