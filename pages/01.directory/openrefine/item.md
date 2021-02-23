@@ -15,11 +15,11 @@ metadata:
     'og:author': Tempopedia
     'twitter:card': summary_large_image
     'twitter:title': 'OpenRefine | Tempopedia'
-    'twitter:site': '@tempopediaorg'
-    'twitter:creator': '@tempopediaorg'
+    'twitter:site': '@tempopedia_org'
+    'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/openrefine/openrefine0.jpg'
-    'article:published_time': '2021-02-04T22:47:43+00:00'
-    'article:modified_time': '2021-02-04T22:47:43+00:00'
+    'article:published_time': '2021-02-05T13:17:24+00:00'
+    'article:modified_time': '2021-02-05T13:17:24+00:00'
     'article:author': Tempopedia
 media_order: openrefine0.jpg
 taxonomy:
@@ -36,6 +36,7 @@ Helps to clean up messy, incoherent datasets
 ! Website: https://openrefine.org/
 ! Price: Free
 ! License: Open Source
+! Skill level: 🏋️‍♀️ Trained end-user
 
 OpenRefine (previously Google Refine) is a powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data.
 
