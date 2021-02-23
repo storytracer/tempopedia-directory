@@ -44,6 +44,8 @@ class OEmbedService implements ServiceInterface
 		$cache = static::getGrav()['cache'];
 		$cache_key = 'gertt_embed_' . md5($url);
 		$embed = $cache->fetch($cache_key);
+		$assets = static::getGrav()['assets'];
+		$twig = static::getGrav()['twig'];
 
 		if ($embed === false) {
 			$URI = $this->endpoint . (strstr($this->endpoint, '?') !== false ? '&' : '?') . 'url=' . urlencode($url);
@@ -63,8 +65,34 @@ class OEmbedService implements ServiceInterface
 	        $response = curl_exec($curl);
 	        curl_close($curl);
 
-	        if (!$response || !($response = json_decode($response, true)) || empty($response['html'])) {
-	        	return false;
+	        if(!$response){
+	        	$fp = fopen($url, 'r');
+				$content = "";
+				while(!feof($fp)) {
+					$buffer = trim(fgets($fp, 4096));
+					$content .= $buffer;
+				}
+				$start = '<title>';
+				$end = '';
+				preg_match("/<title>(.*)<\/title>/s", $content, $match);
+				$metatagarray = get_meta_tags($url);
+				$response = [];
+				$response['title'] = $match[1];
+				if(array_key_exists('description', $metatagarray)){
+					$response['description'] = $metatagarray["description"];
+				}else{
+					$response['description'] = 'No description.';
+				}
+				$response['url'] = $url;
+	        }
+
+	        if (!$response || is_array($response) || !($response = json_decode($response, true)) || empty($response['html'])) {
+	        	if(empty($response['html']) && !empty($response['title'])){
+	        		$response['truncate_length'] = static::getGrav()['config']->get('plugins.embed.truncate_length');;
+	        		$response['html'] = $twig->processTemplate('partials/preview.html.twig', $response);
+	        	}else{
+	        		return false;
+	        	}
 	        }
 
 	        $embed = $response['html'];

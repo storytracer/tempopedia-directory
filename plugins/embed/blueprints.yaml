@@ -30,4 +30,13 @@ form:
       placeholder: "http://open.iframe.ly/api/oembed"
       validate:
         type: url
+    truncate_length:
+      type: number
+      label: Truncate description
+      placeholder: 100
+      default: 100
+      validate:
+        type: number
+        min: 20
+        max: 1000
 
