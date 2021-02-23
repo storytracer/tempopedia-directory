@@ -15,11 +15,11 @@ metadata:
     'og:author': Tempopedia
     'twitter:card': summary_large_image
     'twitter:title': 'GeoJSON.io | Tempopedia'
-    'twitter:site': '@tempopediaorg'
-    'twitter:creator': '@tempopediaorg'
+    'twitter:site': '@tempopedia_org'
+    'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/geojson-io/geojson.io_(720p).png'
-    'article:published_time': '2021-02-04T23:57:06+00:00'
-    'article:modified_time': '2021-02-04T23:58:38+00:00'
+    'article:published_time': '2021-02-04T23:58:41+00:00'
+    'article:modified_time': '2021-02-04T23:58:41+00:00'
     'article:author': Tempopedia
 taxonomy:
     category:
@@ -38,6 +38,7 @@ GeoJson.io is a open-source web visual map editor for GeoJSON files
 ! Website: https://geojson.io
 ! Price: Free
 ! License: Open Source
+! Skill level: 👩‍🔬 Data scientist
 
 The tool was originally developed by [Tom MacWright](https://macwright.org/about/) in 2013 and quickly became a go-to tool for geospatial practitioners.
 
