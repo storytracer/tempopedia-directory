@@ -38,12 +38,14 @@ metadata:
     'twitter:card': summary_large_image
     'twitter:title': 'Directory | Tempopedia'
     'twitter:description': 'Digital history resources. Research tools and collections for digital historians.'
-    'twitter:site': '@tempopediaorg'
-    'twitter:creator': '@tempopediaorg'
+    'twitter:site': '@tempopedia_org'
+    'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org//tempopedia.jpg'
-    'article:published_time': '2021-02-22T17:39:54+00:00'
-    'article:modified_time': '2021-02-22T17:39:54+00:00'
+    'article:published_time': '2021-02-22T17:40:46+00:00'
+    'article:modified_time': '2021-02-22T17:57:14+00:00'
     'article:author': Tempopedia
+external_links:
+    target: _blank
 ---
 
 # Digital History Resources
