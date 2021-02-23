@@ -15,11 +15,11 @@ metadata:
     'og:author': Tempopedia
     'twitter:card': summary_large_image
     'twitter:title': 'Palladio | Tempopedia'
-    'twitter:site': '@tempopediaorg'
-    'twitter:creator': '@tempopediaorg'
+    'twitter:site': '@tempopedia_org'
+    'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/palladio/map-view.jpg'
-    'article:published_time': '2021-02-04T12:42:58+00:00'
-    'article:modified_time': '2021-02-04T12:42:58+00:00'
+    'article:published_time': '2021-02-05T12:44:06+00:00'
+    'article:modified_time': '2021-02-05T12:44:06+00:00'
     'article:author': Tempopedia
 media_order: map-view.jpg
 taxonomy:
@@ -27,10 +27,10 @@ taxonomy:
         - tool
     tag:
         - maps
-        - graphs
-        - networks
         - visualization
         - gis
+        - graphs
+        - networks
 ---
 
 Visualize complex historical data as maps, graphs or galleries
@@ -40,6 +40,7 @@ Visualize complex historical data as maps, graphs or galleries
 ! Website: https://hdlab.stanford.edu/palladio/
 ! Price: Free
 ! License: Open Source
+! Skill level: 🏋️‍♀️ Trained end-user
 
 ## What can I do with Palladio?
 
