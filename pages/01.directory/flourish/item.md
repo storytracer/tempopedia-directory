@@ -18,8 +18,8 @@ metadata:
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/flourish/flourish.studio_(720p).png'
-    'article:published_time': '2021-02-23T20:06:47+00:00'
-    'article:modified_time': '2021-02-23T20:06:47+00:00'
+    'article:published_time': '2021-02-23T20:07:32+00:00'
+    'article:modified_time': '2021-02-23T20:07:32+00:00'
     'article:author': Tempopedia
 media_order: flourish.studio_(720p).png
 ---
@@ -42,7 +42,5 @@ Interactive data visualization and storytelling
 -   **Your brand, your style**Get custom themes so everything has your logo, fonts, colours and styles.
 
 # Tutorials
- [plugin:embed](https://towardsdatascience.com/creating-awesome-map-data-visualizations-using-flourish-studio-6410a8e01c74)
- 
-## More tutorials
-[plugin:embed](https://www.motolibrarian.com/flourish/)
+- [plugin:embed](https://towardsdatascience.com/creating-awesome-map-data-visualizations-using-flourish-studio-6410a8e01c74)
+- [plugin:embed](https://www.motolibrarian.com/flourish/)
