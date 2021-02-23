@@ -15,11 +15,11 @@ metadata:
     'og:author': Tempopedia
     'twitter:card': summary_large_image
     'twitter:title': 'Tropy | Tempopedia'
-    'twitter:site': '@tempopediaorg'
-    'twitter:creator': '@tempopediaorg'
+    'twitter:site': '@tempopedia_org'
+    'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/tropy/tropy.jpg'
-    'article:published_time': '2021-02-05T12:09:44+00:00'
-    'article:modified_time': '2021-02-05T12:09:44+00:00'
+    'article:published_time': '2021-02-05T12:10:21+00:00'
+    'article:modified_time': '2021-02-05T12:10:21+00:00'
     'article:author': Tempopedia
 media_order: tropy.jpg
 taxonomy:
@@ -27,11 +27,11 @@ taxonomy:
         - tool
     tag:
         - app
+        - scan
+        - photos
+        - mac
         - windows
         - linux
-        - mac
-        - photos
-        - scan
 ---
 
 Personal research photo manager
@@ -42,6 +42,7 @@ Personal research photo manager
 ! Platforms: Linux, Windows, Mac
 ! Price: Free
 ! License: Open Source
+! Skill level: 👩‍💻 End-user
 
 Take control of your research photos with Tropy, a tool that shortens the path from finding archival sources to writing about them. Spend more time using your research photos, and less time searching for them.
 
