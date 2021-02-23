@@ -15,11 +15,11 @@ metadata:
     'og:author': Tempopedia
     'twitter:card': summary_large_image
     'twitter:title': 'ScanTailor | Tempopedia'
-    'twitter:site': '@tempopediaorg'
-    'twitter:creator': '@tempopediaorg'
+    'twitter:site': '@tempopedia_org'
+    'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/scantailor/scantailor.jpg'
-    'article:published_time': '2021-02-05T12:10:37+00:00'
-    'article:modified_time': '2021-02-05T12:10:37+00:00'
+    'article:published_time': '2021-02-05T13:16:30+00:00'
+    'article:modified_time': '2021-02-05T13:16:30+00:00'
     'article:author': Tempopedia
 taxonomy:
     category:
@@ -41,6 +41,7 @@ Post-processing and optimisation of scans
 ! Platform: Windows, Linux, Mac
 ! Price: Free
 ! License: Open Source
+! Skill level: 👩‍🔬 Data scientist
 
 !!! **Download links**
 !!! Windows: https://github.com/4lex4/scantailor-advanced/releases
