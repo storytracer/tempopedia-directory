@@ -1,3 +1,7 @@
+# Forked to support any link preview
+
+Even links without providers. If the endpoint doesn't return any result, this plugin will use link title and description for creating a preview.
+
 # Grav Embed Plugin
 
 `embed` is a simple [Grav](http://github.com/getgrav/grav) plugin that allows you to easily embed all kinds of url's in plain markdown or using a Twig function. It makes use of Iframely's free [OEmbed endpoint for open-source projects](http://oembedapi.com). This plugin does relies completely on Iframely's service for displaying content, it requests the embed from them and displays it in the page. If you need more control over your content, I suggest looking at Sommerregen's excellent [MediaEmbed plugin](https://github.com/Sommerregen/grav-plugin-mediaembed).

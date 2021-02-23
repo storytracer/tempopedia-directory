@@ -25,8 +25,10 @@ class EmbedPlugin extends Plugin
         $this->grav['assets']->addInlineCss('.gist table { table-layout: auto; }');
 
         $this->enable([
-            'onPageContentRaw' => ['onPageContentRaw', 0],
-            'onTwigExtensions' => ['onTwigExtensions', 0]
+            'onPageContentRaw'      => ['onPageContentRaw', 0],
+            'onTwigExtensions'      => ['onTwigExtensions', 0],
+            'onTwigTemplatePaths'   => ['onTwigTemplatePaths', 0],
+            'onTwigSiteVariables'   => ['onTwigSiteVariables', 0],
         ]);
 
         if (strtoupper($_SERVER['REQUEST_METHOD']) === "POST" && !empty($_POST['embed_dynamic']) && !empty($_POST['url'])) {
@@ -65,6 +67,23 @@ class EmbedPlugin extends Plugin
     public function onTwigExtensions()
     {
         $this->grav['twig']->twig->addExtension(new \Gertt\Grav\Embed\Twig\EmbedTwigExtension());
+    }
+
+    /**
+     * Add css for this plugin
+     */
+    public function onTwigSiteVariables()
+    {
+        $this->grav['assets']->add('plugin://embed/assets/css/embed.css');
+    }
+
+    /**
+     * [onTwigTemplatePaths] Add twig paths to plugin templates.
+     */
+    public function onTwigTemplatePaths()
+    {
+        $twig = $this->grav['twig'];
+        $twig->twig_paths[] = __DIR__ . '/templates';
     }
 
     public function onTwigPageVariables()
