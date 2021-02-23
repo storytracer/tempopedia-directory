@@ -25,7 +25,7 @@
     {% endif %}
 </div>
 
-<p class="prev-next text-center">
+{# <p class="prev-next text-center">
     {% if not page.isLast %}
             <a class="btn" href="{{ page.prevSibling.url }}"><i class="fa fa-angle-left"></i> {{ 'THEME_QUARK.BLOG.ITEM.PREV_POST'|t }}</a>
     {% endif %}
@@ -33,7 +33,7 @@
     {% if not page.isFirst %}
         <a class="btn" href="{{ page.nextSibling.url }}">{{ 'THEME_QUARK.BLOG.ITEM.NEXT_POST'|t }} <i class="fa fa-angle-right"></i></a>
     {% endif %}
-</p>
-
+</p> #}
+<h2>Comments</h2>
 <script defer src="https://comments.tempopedia.org/js/commento.js"></script>
 <div id="commento"></div>
