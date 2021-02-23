@@ -12,10 +12,10 @@ metadata:
     'twitter:title': 'Contributions | Tempopedia'
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
-    'article:published_time': '2021-02-23T19:11:19+00:00'
-    'article:modified_time': '2021-02-23T19:11:19+00:00'
+    'article:published_time': '2021-02-23T19:12:08+00:00'
+    'article:modified_time': '2021-02-23T19:12:08+00:00'
     'article:author': Tempopedia
 ---
 
 #### Contributions
-Do you have a great tool or collection you would like to share? Send us a tweet to [@tempopedia_org](https://twitter.com/intent/tweet?text=@tempopedia_org)
+Send us a tweet to [@tempopedia_org](https://twitter.com/intent/tweet?text=@tempopedia_org) if you would like to share a great digital history tool or collection!
