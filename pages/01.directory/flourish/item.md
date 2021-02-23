@@ -36,3 +36,4 @@ Interactive data visualization and storytelling
 -   **Your brand, your style**Get custom themes so everything has your logo, fonts, colours and styles.
 
 # Tutorials
+[plugin:embed](https://towardsdatascience.com/creating-awesome-map-data-visualizations-using-flourish-studio-6410a8e01c74)
