@@ -18,8 +18,8 @@ metadata:
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/anchor-fm/features.jpg'
-    'article:published_time': '2021-02-23T18:32:27+00:00'
-    'article:modified_time': '2021-02-23T18:32:27+00:00'
+    'article:published_time': '2021-02-23T18:32:38+00:00'
+    'article:modified_time': '2021-02-23T18:32:38+00:00'
     'article:author': Tempopedia
 media_order: features.jpg
 taxonomy:
@@ -41,6 +41,6 @@ App for recording, editing and distributing podcasts
 ! Website: https://www.anchor.fm
 ! Price: Free
 ! License: Commercial
-! Skill: 🖥 End-user
+! Skill level: 🖥 End-user
 
 Anchor is a free platform for podcast creation. It contains tools that allow users to record and edit audio, arrange it into podcast episodes, publish podcasts to listening platforms, and monetize content by collecting listener contributions or adding advertisements into episodes. The recordings need not be professionally produced or edited and no expensive equipment is required. Beginners often start out using nothing more than their smartphones. The app includes a library to store user recordings, royalty-free music, as well as sound effects available to all users. In 2019 Anchor was acquired by Spotify.
