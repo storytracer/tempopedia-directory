@@ -18,8 +18,8 @@ metadata:
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/palladio/map-view.jpg'
-    'article:published_time': '2021-02-05T12:44:06+00:00'
-    'article:modified_time': '2021-02-05T12:44:06+00:00'
+    'article:published_time': '2021-02-23T18:53:06+00:00'
+    'article:modified_time': '2021-02-23T18:53:06+00:00'
     'article:author': Tempopedia
 media_order: map-view.jpg
 taxonomy:
@@ -63,3 +63,7 @@ In the List view, dimensions of your data can be arranged to make customized lis
 ![](http://hdlab.stanford.edu/palladio/assets/gallery-view.jpg)
 
 In the Gallery view, data can be displayed within a grid setting for quick reference. Here dimensions of your data can also be linked to outside web-based information. Sort your data according to different dimensions.
+
+### Tutorial
+
+[plugin:embed](https://pvaselop.com/digital-humanities/network-analysis-with-palladio/)
