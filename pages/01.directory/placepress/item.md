@@ -8,7 +8,6 @@ taxonomy:
         - tool
     tag:
         - maps
-        - wordpress
 aura:
     pagetype: website
 metadata:
@@ -25,8 +24,8 @@ metadata:
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/placepress/placepress.jpg'
-    'article:published_time': '2021-02-04T22:01:55+00:00'
-    'article:modified_time': '2021-02-04T22:01:55+00:00'
+    'article:published_time': '2021-02-23T18:54:43+00:00'
+    'article:modified_time': '2021-02-23T18:54:43+00:00'
     'article:author': Tempopedia
 ---
 
