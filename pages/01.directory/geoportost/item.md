@@ -15,11 +15,11 @@ metadata:
     'og:author': Tempopedia
     'twitter:card': summary_large_image
     'twitter:title': 'GeoPortOst | Tempopedia'
-    'twitter:site': '@tempopediaorg'
-    'twitter:creator': '@tempopediaorg'
+    'twitter:site': '@tempopedia_org'
+    'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/geoportost/geoportost.ios-regensburg.de_en_(720p).png'
-    'article:published_time': '2021-02-04T23:14:50+00:00'
-    'article:modified_time': '2021-02-04T23:14:50+00:00'
+    'article:published_time': '2021-02-05T00:36:12+00:00'
+    'article:modified_time': '2021-02-05T00:36:12+00:00'
     'article:author': Tempopedia
 media_order: geoportost.ios-regensburg.de_en_(720p).png
 taxonomy:
@@ -28,8 +28,6 @@ taxonomy:
     tag:
         - maps
         - gis
-        - eastern-europe
-        - south-east-europe
 ---
 
 Thematic and hidden maps of Eastern and Southeastern Europe
