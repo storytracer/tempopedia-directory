@@ -18,8 +18,8 @@ metadata:
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/palladio/map-view.jpg'
-    'article:published_time': '2021-02-24T01:33:36+00:00'
-    'article:modified_time': '2021-02-24T01:33:36+00:00'
+    'article:published_time': '2021-02-24T11:02:05+00:00'
+    'article:modified_time': '2021-02-24T11:02:05+00:00'
     'article:author': Tempopedia
 media_order: map-view.jpg
 taxonomy:
@@ -29,6 +29,7 @@ taxonomy:
         - maps
         - gis
         - visualization
+        - networks
 ---
 
 Visualize complex historical data as maps, graphs or galleries
