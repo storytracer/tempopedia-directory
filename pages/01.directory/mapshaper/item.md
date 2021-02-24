@@ -24,8 +24,8 @@ metadata:
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/mapshaper/mapshaper-simplify.jpg'
-    'article:published_time': '2021-02-23T18:49:15+00:00'
-    'article:modified_time': '2021-02-23T18:49:15+00:00'
+    'article:published_time': '2021-02-24T01:13:56+00:00'
+    'article:modified_time': '2021-02-24T01:13:56+00:00'
     'article:author': Tempopedia
 media_order: mapshaper-simplify.jpg
 ---
@@ -43,5 +43,4 @@ Like GeoJson.io, Mapshaper is a free, open-source editor that can convert geospa
 
 ### Tutorial
 [plugin:embed](https://handsondataviz.org/mapshaper.html)
-
 
