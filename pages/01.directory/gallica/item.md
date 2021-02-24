@@ -18,8 +18,8 @@ metadata:
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/gallica/gallica.bnf.fr_accueil_fr_content_accueil-fr_mode=desktop(720p).png'
-    'article:published_time': '2021-02-24T00:10:28+00:00'
-    'article:modified_time': '2021-02-24T00:10:40+00:00'
+    'article:published_time': '2021-02-24T00:10:52+00:00'
+    'article:modified_time': '2021-02-24T00:10:52+00:00'
     'article:author': Tempopedia
 media_order: gallica.bnf.fr_accueil_fr_content_accueil-fr_mode=desktop(720p).png
 taxonomy:
