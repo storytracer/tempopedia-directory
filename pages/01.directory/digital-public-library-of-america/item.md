@@ -18,8 +18,8 @@ metadata:
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/digital-public-library-of-america/dp.la_(1080p).png'
-    'article:published_time': '2021-02-23T23:30:14+00:00'
-    'article:modified_time': '2021-02-23T23:30:14+00:00'
+    'article:published_time': '2021-02-23T23:30:41+00:00'
+    'article:modified_time': '2021-02-23T23:30:41+00:00'
     'article:author': Tempopedia
 media_order: dp.la_(1080p).png
 taxonomy:
@@ -28,6 +28,7 @@ taxonomy:
     tag:
         - aggregator
         - library
+        - archive
 ---
 
 Aggregator for US digital collections
