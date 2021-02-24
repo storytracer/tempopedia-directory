@@ -42,12 +42,12 @@ metadata:
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org//tempopedia.jpg'
-    'article:published_time': '2021-02-23T19:26:43+00:00'
-    'article:modified_time': '2021-02-24T00:44:16+00:00'
+    'article:published_time': '2021-02-24T01:24:43+00:00'
+    'article:modified_time': '2021-02-24T01:24:43+00:00'
     'article:author': Tempopedia
 external_links:
     target: _blank
 ---
 
-# Digital History Resources
+# Digital History Directory
 ## [Tools](/category:tool) | [Collections](/category:collection)
