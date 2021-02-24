@@ -18,8 +18,8 @@ metadata:
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/palladio/map-view.jpg'
-    'article:published_time': '2021-02-23T18:53:06+00:00'
-    'article:modified_time': '2021-02-23T18:53:06+00:00'
+    'article:published_time': '2021-02-24T00:15:01+00:00'
+    'article:modified_time': '2021-02-24T00:15:01+00:00'
     'article:author': Tempopedia
 media_order: map-view.jpg
 taxonomy:
@@ -27,9 +27,8 @@ taxonomy:
         - tool
     tag:
         - maps
-        - visualization
         - gis
-        - graphs
+        - visualization
         - networks
 ---
 
