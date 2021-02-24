@@ -15,11 +15,11 @@ metadata:
     'og:author': Tempopedia
     'twitter:card': summary_large_image
     'twitter:title': 'World Digital Library | Tempopedia'
-    'twitter:site': '@tempopediaorg'
-    'twitter:creator': '@tempopediaorg'
+    'twitter:site': '@tempopedia_org'
+    'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/world-digital-library/www.wdl.org_en_(720p).png'
-    'article:published_time': '2021-02-22T14:44:31+00:00'
-    'article:modified_time': '2021-02-22T14:44:31+00:00'
+    'article:published_time': '2021-02-22T14:45:10+00:00'
+    'article:modified_time': '2021-02-22T14:45:10+00:00'
     'article:author': Tempopedia
 media_order: www.wdl.org_en_(720p).png
 taxonomy:
@@ -27,6 +27,7 @@ taxonomy:
         - collection
     tag:
         - aggregator
+        - library
 ---
 
 World History aggregator initiated by Library of Congress
