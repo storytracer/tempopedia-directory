@@ -8,14 +8,27 @@ metadata:
     'og:url': 'https://tempopedia.org/directory/mexicana'
     'og:type': website
     'og:title': 'Mexicana | Tempopedia'
+    'og:image': 'https://tempopedia.org/directory/mexicana/mexicana.cultura.gob.mx_es_repositorio_home(720p).png'
+    'og:image:type': image/png
+    'og:image:width': '2560'
+    'og:image:height': '1440'
     'og:author': Tempopedia
     'twitter:card': summary_large_image
     'twitter:title': 'Mexicana | Tempopedia'
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
+    'twitter:image': 'https://tempopedia.org/directory/mexicana/mexicana.cultura.gob.mx_es_repositorio_home(720p).png'
     'article:published_time': '2021-02-24T00:01:43+00:00'
-    'article:modified_time': '2021-02-24T00:01:43+00:00'
+    'article:modified_time': '2021-02-24T00:03:07+00:00'
     'article:author': Tempopedia
+media_order: mexicana.cultura.gob.mx_es_repositorio_home(720p).png
+taxonomy:
+    category:
+        - collection
+    tag:
+        - aggregator
+        - library
+        - archive
 ---
 
 Aggregator for Mexican digital collections
