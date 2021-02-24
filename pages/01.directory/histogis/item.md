@@ -18,8 +18,8 @@ metadata:
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/histogis/histogis.acdh.oeaw.ac.at_shapes_shape_detail_10056(720p).png'
-    'article:published_time': '2021-02-05T13:17:00+00:00'
-    'article:modified_time': '2021-02-05T13:17:00+00:00'
+    'article:published_time': '2021-02-23T18:45:40+00:00'
+    'article:modified_time': '2021-02-23T18:45:40+00:00'
     'article:author': Tempopedia
 media_order: histogis.acdh.oeaw.ac.at_shapes_shape_detail_10056(720p).png
 taxonomy:
@@ -28,7 +28,6 @@ taxonomy:
     tag:
         - maps
         - gis
-        - geojson
 ---
 
 Historical Central European borders as GeoJSON
