@@ -18,8 +18,8 @@ metadata:
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/anchor-fm/features.jpg'
-    'article:published_time': '2021-02-23T18:34:49+00:00'
-    'article:modified_time': '2021-02-23T18:34:49+00:00'
+    'article:published_time': '2021-02-23T18:48:25+00:00'
+    'article:modified_time': '2021-02-23T18:48:25+00:00'
     'article:author': Tempopedia
 media_order: features.jpg
 taxonomy:
@@ -31,7 +31,6 @@ taxonomy:
         - iphone
         - ipad
         - podcast
-        - public-history
 ---
 
 App for recording, editing and distributing podcasts
