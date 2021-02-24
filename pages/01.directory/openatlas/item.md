@@ -7,6 +7,7 @@ taxonomy:
         - maps
         - gis
         - database
+        - cms
 aura:
     pagetype: website
 feed:
@@ -25,8 +26,8 @@ metadata:
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/openatlas/openatlas.jpg'
-    'article:published_time': '2021-02-23T18:31:06+00:00'
-    'article:modified_time': '2021-02-23T18:31:06+00:00'
+    'article:published_time': '2021-02-23T18:51:26+00:00'
+    'article:modified_time': '2021-02-23T18:51:26+00:00'
     'article:author': Tempopedia
 media_order: openatlas.jpg
 ---
