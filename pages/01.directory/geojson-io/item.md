@@ -18,8 +18,8 @@ metadata:
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/geojson-io/geojson.io_(720p).png'
-    'article:published_time': '2021-02-04T23:58:41+00:00'
-    'article:modified_time': '2021-02-04T23:58:41+00:00'
+    'article:published_time': '2021-02-23T18:45:08+00:00'
+    'article:modified_time': '2021-02-23T18:45:08+00:00'
     'article:author': Tempopedia
 taxonomy:
     category:
@@ -27,7 +27,6 @@ taxonomy:
     tag:
         - maps
         - gis
-        - geojson
 media_order: geojson.io_(720p).png
 ---
 
