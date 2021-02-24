@@ -13,8 +13,8 @@ metadata:
     'twitter:title': 'Omeka S | Tempopedia'
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
-    'article:published_time': '2021-02-24T00:29:58+00:00'
-    'article:modified_time': '2021-02-24T00:29:58+00:00'
+    'article:published_time': '2021-02-24T01:28:25+00:00'
+    'article:modified_time': '2021-02-24T01:28:25+00:00'
     'article:author': Tempopedia
 taxonomy:
     category:
@@ -22,7 +22,6 @@ taxonomy:
     tag:
         - database
         - cms
-        - publishing
 ---
 
 Semantic web database, rich media publishing and exhibition platform
