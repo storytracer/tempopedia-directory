@@ -17,8 +17,9 @@ content:
     pagination: true
     url_taxonomy_filters: true
 feed:
-    description: 'Sample Blog Description'
-    limit: 10
+    description: 'Tempopedia Directory'
+    limit: 100
+    title: 'Tempopedia Directory'
 pagination: true
 aura:
     pagetype: website
@@ -41,8 +42,8 @@ metadata:
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org//tempopedia.jpg'
-    'article:published_time': '2021-02-22T17:40:46+00:00'
-    'article:modified_time': '2021-02-22T17:57:14+00:00'
+    'article:published_time': '2021-02-23T19:26:43+00:00'
+    'article:modified_time': '2021-02-24T00:44:16+00:00'
     'article:author': Tempopedia
 external_links:
     target: _blank
