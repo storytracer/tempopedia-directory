@@ -22,15 +22,15 @@ metadata:
     'og:author': Tempopedia
     'twitter:card': summary_large_image
     'twitter:title': 'Europeana | Tempopedia'
-    'twitter:site': '@tempopediaorg'
-    'twitter:creator': '@tempopediaorg'
+    'twitter:site': '@tempopedia_org'
+    'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/europeana/europeana.jpg'
-    'article:published_time': '2021-02-05T02:43:15+00:00'
-    'article:modified_time': '2021-02-05T02:43:15+00:00'
+    'article:published_time': '2021-02-05T12:29:58+00:00'
+    'article:modified_time': '2021-02-05T12:29:58+00:00'
     'article:author': Tempopedia
 ---
 
-Meta-search across European digital collections
+Aggregator for European digital collections
 
 ===
 
