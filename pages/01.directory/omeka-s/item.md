@@ -13,8 +13,8 @@ metadata:
     'twitter:title': 'Omeka S | Tempopedia'
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
-    'article:published_time': '2021-02-05T02:57:28+00:00'
-    'article:modified_time': '2021-02-05T02:57:28+00:00'
+    'article:published_time': '2021-02-23T18:50:55+00:00'
+    'article:modified_time': '2021-02-23T18:50:55+00:00'
     'article:author': Tempopedia
 taxonomy:
     category:
@@ -40,3 +40,6 @@ Omeka S is a web publication system for universities, galleries, libraries, arch
 
 Showcase of sites produced with Omeka S:
 https://omeka.org/s/directory/
+
+### Tutorial
+[plugin:embed](https://guides.library.ucsc.edu/DS/Resources/OmekaS)
