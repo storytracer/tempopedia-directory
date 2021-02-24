@@ -13,8 +13,8 @@ metadata:
     'twitter:title': 'Chronas | Tempopedia'
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
-    'article:published_time': '2021-02-24T00:45:34+00:00'
-    'article:modified_time': '2021-02-24T00:45:34+00:00'
+    'article:published_time': '2021-02-24T00:46:14+00:00'
+    'article:modified_time': '2021-02-24T00:46:14+00:00'
     'article:author': Tempopedia
 media_order: 'chronas.org__year=782&epics=ei,es,ew&markers=ar,b,si,cp,c,ca,l,m,p,e,s,a,r,at,op,o&limit=5500&type=&fill=ruler&label=ruler&value=&locale=en&position=37,37,2.5(720p).png'
 taxonomy:
@@ -36,4 +36,4 @@ Chronas is a history map application with over 50 million data points which ever
 
 ### Tutorial
 
-[plugin-embed](https://www.youtube.com/watch?v=Ah3qSNJpj4Q)
+[plugin:embed](https://www.youtube.com/watch?v=Ah3qSNJpj4Q)
