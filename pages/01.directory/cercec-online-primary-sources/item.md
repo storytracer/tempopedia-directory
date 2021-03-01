@@ -23,8 +23,8 @@ metadata:
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/cercec-online-primary-sources/onlineprimarysources.cercec.fr_(720p).png'
-    'article:published_time': '2021-03-01T15:29:28+00:00'
-    'article:modified_time': '2021-03-01T15:29:28+00:00'
+    'article:published_time': '2021-03-01T15:29:46+00:00'
+    'article:modified_time': '2021-03-01T15:29:46+00:00'
     'article:author': Tempopedia
 media_order: onlineprimarysources.cercec.fr_(720p).png
 ---
@@ -32,6 +32,8 @@ media_order: onlineprimarysources.cercec.fr_(720p).png
 Digitized Primary Sources from Russia, Caucasus, Central Asia, Eastern & Central Europe
 
 ===
+
+! Webesite: https://onlineprimarysources.cercec.fr/
 
 The Online Primary Sources database aims to provide researchers and students with sources from Russia, the Caucasus, Central Asia, Eastern and Central Europe put online in recent years thanks to intensive library digitization policies in these zones as well as in the West.
 
