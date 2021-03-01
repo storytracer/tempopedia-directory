@@ -1,5 +1,5 @@
 ---
-title: 'CERCEC Primary Sources'
+title: CERCEC
 taxonomy:
     category:
         - collection
@@ -12,19 +12,19 @@ feed:
 metadata:
     'og:url': 'https://tempopedia.org/directory/cercec-online-primary-sources'
     'og:type': website
-    'og:title': 'CERCEC Primary Sources | Tempopedia'
+    'og:title': 'CERCEC | Tempopedia'
     'og:image': 'https://tempopedia.org/directory/cercec-online-primary-sources/onlineprimarysources.cercec.fr_(720p).png'
     'og:image:type': image/png
     'og:image:width': '2560'
     'og:image:height': '1440'
     'og:author': Tempopedia
     'twitter:card': summary_large_image
-    'twitter:title': 'CERCEC Primary Sources | Tempopedia'
+    'twitter:title': 'CERCEC | Tempopedia'
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/cercec-online-primary-sources/onlineprimarysources.cercec.fr_(720p).png'
-    'article:published_time': '2021-03-01T15:27:37+00:00'
-    'article:modified_time': '2021-03-01T15:27:37+00:00'
+    'article:published_time': '2021-03-01T15:29:16+00:00'
+    'article:modified_time': '2021-03-01T15:29:16+00:00'
     'article:author': Tempopedia
 media_order: onlineprimarysources.cercec.fr_(720p).png
 ---
