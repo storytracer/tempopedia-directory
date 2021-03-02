@@ -25,8 +25,8 @@ metadata:
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/kumu/kumu.io_(720p).png'
-    'article:published_time': '2021-03-02T01:06:32+00:00'
-    'article:modified_time': '2021-03-02T01:07:47+00:00'
+    'article:published_time': '2021-03-02T01:07:49+00:00'
+    'article:modified_time': '2021-03-02T01:07:49+00:00'
     'article:author': Tempopedia
 media_order: kumu.io_(720p).png
 ---
@@ -36,9 +36,11 @@ Network mapping and visualisation
 ===
 
 ! Website: https://www.kumu.io
-! Price: Freemium (Public projects free; pivate projects starting from $9/month and free for students)
+! Price: Freemium (Free public projects, private projects $9/month or free for students)
 ! License: Commercial
 ! Skill level: 👩‍💻 End-user
+
+### Description
 
 Kumu makes it easy to organize complex data into relationship maps that are beautiful to look at and a pleasure to use.
 
