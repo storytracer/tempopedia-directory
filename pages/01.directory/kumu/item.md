@@ -4,8 +4,8 @@ taxonomy:
     category:
         - tool
     tag:
-        - networks
         - maps
+        - networks
         - visualization
 aura:
     pagetype: website
@@ -15,14 +15,20 @@ metadata:
     'og:url': 'https://tempopedia.org/directory/kumu'
     'og:type': website
     'og:title': 'Kumu | Tempopedia'
+    'og:image': 'https://tempopedia.org/directory/kumu/kumu.io_(720p).png'
+    'og:image:type': image/png
+    'og:image:width': '2560'
+    'og:image:height': '1440'
     'og:author': Tempopedia
     'twitter:card': summary_large_image
     'twitter:title': 'Kumu | Tempopedia'
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
+    'twitter:image': 'https://tempopedia.org/directory/kumu/kumu.io_(720p).png'
     'article:published_time': '2021-03-02T01:06:32+00:00'
-    'article:modified_time': '2021-03-02T01:06:32+00:00'
+    'article:modified_time': '2021-03-02T01:07:47+00:00'
     'article:author': Tempopedia
+media_order: kumu.io_(720p).png
 ---
 
 Network mapping and visualisation
@@ -145,3 +151,7 @@ Presentations can include more than just map slides:
 Looking to share a single map on another website? Use embeds to create an iframe that you can add to your blog or website.
 
 Whether you're using presentations or embeds, our publishing platform is built to handle as much traffic as you can throw at it (thanks to Amazon's Cloudfront CDN). Share your work with the world with just a few clicks!
+
+### Tutorial
+
+[plugin:embed](https://vimeo.com/217904181)
