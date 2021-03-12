@@ -18,8 +18,8 @@ metadata:
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/impresso/impresso-project.ch_app_search_sq=(720p).png'
-    'article:published_time': '2021-03-12T11:38:39+00:00'
-    'article:modified_time': '2021-03-12T11:40:14+00:00'
+    'article:published_time': '2021-03-12T11:40:23+00:00'
+    'article:modified_time': '2021-03-12T11:40:23+00:00'
     'article:author': Tempopedia
 media_order: impresso-project.ch_app_search_sq=(720p).png
 taxonomy:
@@ -36,7 +36,7 @@ Newspaper database for Switzerland and Luxemburg
 ===
 
 ! Website: https://impresso-project.ch/app/
-! Contributor: [EmilyJLB](https://twitter.com/EmilyJLB)
+! Contributor: [@EmilyJLB](https://twitter.com/EmilyJLB)
 
 The *impresso* project's main [OBJECTIVE](https://impresso-project.ch/project/objectives/) is to develop a media monitoring suite for historical newspapers driven by research objectives in computational linguistics, history and design.
 
