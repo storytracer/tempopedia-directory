@@ -18,15 +18,14 @@ metadata:
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/recogito/Recogito 1.png'
-    'article:published_time': '2021-03-12T11:49:37+00:00'
-    'article:modified_time': '2021-03-12T11:50:19+00:00'
+    'article:published_time': '2021-03-12T11:50:22+00:00'
+    'article:modified_time': '2021-03-12T11:50:22+00:00'
     'article:author': Tempopedia
 taxonomy:
     category:
         - tool
     tag:
         - annotations
-        - semantic
 media_order: 'Recogito 1.png'
 ---
 
