@@ -18,8 +18,8 @@ metadata:
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/recogito/Recogito 1.png'
-    'article:published_time': '2021-03-12T11:50:22+00:00'
-    'article:modified_time': '2021-03-12T11:50:22+00:00'
+    'article:published_time': '2021-03-12T11:51:00+00:00'
+    'article:modified_time': '2021-03-12T11:51:00+00:00'
     'article:author': Tempopedia
 taxonomy:
     category:
@@ -36,6 +36,8 @@ Annotate places, people and events in texts and images
 ! Website: https://recogito.pelagios.org/
 ! Price: Free
 ! License: Open Source
+! Skill level: 👩‍💻End-user
+! Contributor: [EmilyJLB](https://twitter.com/EmilyJLB)
 
 Recogito is an online platform for collaborative document annotation. It is maintained by Pelagios, a Digital Humanities initiative aiming to foster better linkages between online resources documenting the past.
 
