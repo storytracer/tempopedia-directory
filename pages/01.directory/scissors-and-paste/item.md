@@ -5,8 +5,8 @@ taxonomy:
         - tool
         - collection
     tag:
-        - newspapers
         - database
+        - newspapers
         - search
 aura:
     pagetype: website
@@ -16,14 +16,20 @@ metadata:
     'og:url': 'https://tempopedia.org/directory/scissors-and-paste'
     'og:type': website
     'og:title': 'Scissors-and-Paste-O-Meter | Tempopedia'
+    'og:image': 'https://tempopedia.org/directory/scissors-and-paste/scissorsandpaste.net_scissors-and-paste-o-meter(720p).png'
+    'og:image:type': image/png
+    'og:image:width': '2560'
+    'og:image:height': '1440'
     'og:author': Tempopedia
     'twitter:card': summary_large_image
     'twitter:title': 'Scissors-and-Paste-O-Meter | Tempopedia'
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
+    'twitter:image': 'https://tempopedia.org/directory/scissors-and-paste/scissorsandpaste.net_scissors-and-paste-o-meter(720p).png'
     'article:published_time': '2021-03-12T11:13:18+00:00'
-    'article:modified_time': '2021-03-12T11:13:18+00:00'
+    'article:modified_time': '2021-03-12T11:13:28+00:00'
     'article:author': Tempopedia
+media_order: scissorsandpaste.net_scissors-and-paste-o-meter(720p).png
 ---
 
 Find reprints of newspapers articles held by BL or Times Digital Archive
