@@ -5,9 +5,9 @@ taxonomy:
         - tool
         - collection
     tag:
-        - database
         - newspapers
         - search
+        - database
 aura:
     pagetype: website
 feed:
@@ -26,8 +26,8 @@ metadata:
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/scissors-and-paste/scissorsandpaste.net_scissors-and-paste-o-meter(720p).png'
-    'article:published_time': '2021-03-12T11:14:40+00:00'
-    'article:modified_time': '2021-03-12T11:14:40+00:00'
+    'article:published_time': '2021-03-12T11:17:22+00:00'
+    'article:modified_time': '2021-03-12T11:17:22+00:00'
     'article:author': Tempopedia
 media_order: scissorsandpaste.net_scissors-and-paste-o-meter(720p).png
 ---
@@ -40,7 +40,7 @@ Find reprints of British newspapers articles
 ! Price: Free
 ! License: Open Source
 ! Skill level: 👩‍💻 End-user
-! Contributor: [EmilyJLB](https://twitter.com/EmilyJLB)
+! Contributor: [@EmilyJLB](https://twitter.com/EmilyJLB)
 
 The Scissors and Paste Database is a collection of manual transcriptions from British newspapers (1789-1850), alongside originals from colonial and American newspapers. It aims to be a central repository of reprinted news across the 19th-Century Anglophone world.
 
