@@ -1,0 +1,43 @@
+---
+title: Scissors-and-Paste-O-Meter
+taxonomy:
+    category:
+        - tool
+        - collection
+    tag:
+        - newspapers
+        - database
+        - search
+aura:
+    pagetype: website
+feed:
+    limit: 10
+metadata:
+    'og:url': 'https://tempopedia.org/directory/scissors-and-paste'
+    'og:type': website
+    'og:title': 'Scissors-and-Paste-O-Meter | Tempopedia'
+    'og:author': Tempopedia
+    'twitter:card': summary_large_image
+    'twitter:title': 'Scissors-and-Paste-O-Meter | Tempopedia'
+    'twitter:site': '@tempopedia_org'
+    'twitter:creator': '@tempopedia_org'
+    'article:published_time': '2021-03-12T11:13:18+00:00'
+    'article:modified_time': '2021-03-12T11:13:18+00:00'
+    'article:author': Tempopedia
+---
+
+Find reprints of newspapers articles held by BL or Times Digital Archive
+
+===
+
+! Website: http://scissorsandpaste.net/scissors-and-paste-o-meter
+! Price: Free
+! License: Open Source
+! Skill level: 👩‍💻 End-user
+
+The Scissors and Paste Database is a collection of manual transcriptions from British newspapers (1789-1850), alongside originals from colonial and American newspapers. It aims to be a central repository of reprinted news across the 19th-Century Anglophone world.
+
+In order to facilitate the discovery of new reprints and reuses, the site also contains the Scissors-and-Paste-o-Meter, which allows users to view possible instances reprints and reuses across multiple digitized newspaper databases. The SAP-o-Meter currently maps reprints with the British Library Newspaper Collection (JISC1, 1800-1900), The Times Digital Archive (1800-1900), The London Gazette (1800-1837) and the National Library of Australia’s Trove (1800-1837).
+
+If you would like to contribute to the database, please contact Dr M. H. Beals at m.h.beals@lboro.ac.uk or via Twitter @mhbeals. All data is available CC-BY at http://osf.io/nm2rq
+
