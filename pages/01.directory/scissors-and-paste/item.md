@@ -1,5 +1,5 @@
 ---
-title: Scissors-and-Paste-O-Meter
+title: 'Scissors and Paste'
 taxonomy:
     category:
         - tool
@@ -15,19 +15,19 @@ feed:
 metadata:
     'og:url': 'https://tempopedia.org/directory/scissors-and-paste'
     'og:type': website
-    'og:title': 'Scissors-and-Paste-O-Meter | Tempopedia'
+    'og:title': 'Scissors and Paste | Tempopedia'
     'og:image': 'https://tempopedia.org/directory/scissors-and-paste/scissorsandpaste.net_scissors-and-paste-o-meter(720p).png'
     'og:image:type': image/png
     'og:image:width': '2560'
     'og:image:height': '1440'
     'og:author': Tempopedia
     'twitter:card': summary_large_image
-    'twitter:title': 'Scissors-and-Paste-O-Meter | Tempopedia'
+    'twitter:title': 'Scissors and Paste | Tempopedia'
     'twitter:site': '@tempopedia_org'
     'twitter:creator': '@tempopedia_org'
     'twitter:image': 'https://tempopedia.org/directory/scissors-and-paste/scissorsandpaste.net_scissors-and-paste-o-meter(720p).png'
-    'article:published_time': '2021-03-12T11:13:31+00:00'
-    'article:modified_time': '2021-03-12T11:13:31+00:00'
+    'article:published_time': '2021-03-12T11:14:20+00:00'
+    'article:modified_time': '2021-03-12T11:14:20+00:00'
     'article:author': Tempopedia
 media_order: scissorsandpaste.net_scissors-and-paste-o-meter(720p).png
 ---
