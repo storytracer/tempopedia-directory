@@ -16,13 +16,19 @@ metadata:
     'article:published_time': '2021-03-12T11:48:57+00:00'
     'article:modified_time': '2021-03-12T11:48:57+00:00'
     'article:author': Tempopedia
+taxonomy:
+    category:
+        - tool
+    tag:
+        - annotations
+        - semantic
 ---
 
 Annotate places, people and events in texts and images
 
 ===
 
-! Website:
+! Website: https://recogito.pelagios.org/
 ! Price: Free
 ! License: Open Source
 
